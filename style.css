@@ -36,10 +36,10 @@ body {
 }
 
 #flip div div {
-  background:#42c58a;
+  background:#DC143C;
 }
 #flip div:first-child div {
-  background:#4ec7f3;
+  background:#DC143C;
 }
 #flip div:last-child div {
   background:#DC143C;
